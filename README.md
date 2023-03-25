@@ -1,6 +1,4 @@
 ### Hi there 👋
-- I’m Junyuan Tan
-- 🌱 I’m currently learning in Beijing University of Posts and Telecommunications
 <!--
 **GuaGuaGod/GuaGuaGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
